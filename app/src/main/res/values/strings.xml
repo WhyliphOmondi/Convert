@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="Hello">HellWorld</string>
+    <string name="Try">try</string>
+    <string name="Milli">Millimeters</string>
+    <string name="Inche">Inches</string>
+    <string name="Conv">Convert</string>
+    <string name="Ex">Exit</string>
+    <string name="Con">Convert</string>
+</resources>
